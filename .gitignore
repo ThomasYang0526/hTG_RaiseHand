@@ -1,0 +1,14 @@
+
+__pycache__/
+
+*.jpg
+
+*.txt
+
+logs/
+
+saved_model/
+
+*.onnx
+
+tracker_outputs/
